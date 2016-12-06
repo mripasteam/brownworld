@@ -1,4 +1,4 @@
-This data repository belongs to the publication **"Brown world forests: increased ungulate browsing keeps temperate trees in recruitment bottlenecks in resource hotspots"** by Churski et al. New Phytologist.
+This data repository belongs to the publication [**"Brown world forests: increased ungulate browsing keeps temperate trees in recruitment bottlenecks in resource hotspots"**](http://onlinelibrary.wiley.com/doi/10.1111/nph.14345/full) by Churski et al. New Phytologist.
 
 #### Summary
 
